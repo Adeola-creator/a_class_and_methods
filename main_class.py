@@ -1,6 +1,5 @@
 
 class Student:
-    # [assignment] Skeleton class. Add your code here
     def __init__(self, name, age, tracks, score):
         self.name= name
         self.age= age 
